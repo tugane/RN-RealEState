@@ -35,4 +35,9 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
-config.bat
+
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
